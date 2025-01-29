@@ -6,6 +6,10 @@ private String kategori;
     Kontak(int aInt, String string, String string0, String string1) {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
+
+    Kontak(int aInt, String string, String string0, String string1) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 public Kontak(int id, String nama, String nomorTelepon, String kategori){
     this.id = id;
     this.nama = nama;
